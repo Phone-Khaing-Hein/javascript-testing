@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1680541913110" clover="3.2.0">
+  <project timestamp="1680541913110" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="24" coveredelements="24" complexity="0" loc="13" ncloc="13" packages="1" files="1" classes="1"/>
+    <file name="app.js" path="D:\1_microverse\module_2\javascript-testing\app.js">
+      <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="34" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
